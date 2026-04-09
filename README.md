@@ -4,17 +4,16 @@ A simple 3D spinning cube animation built with Three.js.
 
 ## Features
 
-- Colorful cube with different colors on each face
-- Smooth rotation animation
-- Adjustable rotation speed with a slider control
+- Different colors on each face
+- Smooth rotation animation, with adjustable speed
 - Responsive design that adapts to window size
-- Ambient and directional lighting for better visual appeal
+- Ambient and directional lighting
 
 ## How to Run
 
-1. Clone or download the repository
-2. Open `index.html` in your web browser
-3. Use the rotation speed slider in the top-right corner to control how fast the cube spins
+1. Clone repo or download file `index.html` + `cube.svg` (latter is not required, it's just the browser tab icon)
+2. Open `index.html` in web browser
+3. Use rotation speed slider to control how fast the cube spins
 
 ## Dependencies
 
@@ -22,7 +21,7 @@ A simple 3D spinning cube animation built with Three.js.
 
 ## Controls
 
-- **Rotation Speed Slider**: Adjust the speed from 0 (stopped) to 5x (very fast)
+- **Rotation Speed Slider**: Adjust the speed from 0 (stopped) to 50x (very fast)
 
 ## Browser Support
 
@@ -42,4 +41,5 @@ Works in any modern web browser that supports WebGL.
 
 ### Credit
 
-This file created by Claude Haiku 4.5 in VSCode.
+This file created by Claude Haiku 4.5 in VSCode and modified by Doug Robinson.  
+Browser tab icon svg file created by Claude Haiku but refined by ChatGPT.
