@@ -1,0 +1,14 @@
+<svg viewBox="6.4 -5.5 187.2 230.4" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(111,111) scale(1.2) translate(-111,-111)">
+    
+    <!-- Top face (Magenta) -->
+    <polygon points="100,14 178,60 100,107 22,60" fill="#ff00ff" />
+
+    <!-- Right face (Green) -->
+    <polygon points="178,60 178,154 100,206 100,107" fill="#00ff00" />
+
+    <!-- Left face (Blue) -->
+    <polygon points="22,60 100,107 100,206 22,154" fill="#0000ff" />
+
+  </g>
+</svg>
